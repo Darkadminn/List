@@ -1,0 +1,15 @@
+C:\Users\burul\source\repos\List\List\bin\Debug\List.exe.config
+C:\Users\burul\source\repos\List\List\bin\Debug\List.exe
+C:\Users\burul\source\repos\List\List\bin\Debug\List.pdb
+C:\Users\burul\source\repos\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\burul\source\repos\List\List\obj\Debug\MainWindow.g.cs
+C:\Users\burul\source\repos\List\List\obj\Debug\App.g.cs
+C:\Users\burul\source\repos\List\List\obj\Debug\List_MarkupCompile.cache
+C:\Users\burul\source\repos\List\List\obj\Debug\List_MarkupCompile.lref
+C:\Users\burul\source\repos\List\List\obj\Debug\MainWindow.baml
+C:\Users\burul\source\repos\List\List\obj\Debug\List.g.resources
+C:\Users\burul\source\repos\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\burul\source\repos\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\burul\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\burul\source\repos\List\List\obj\Debug\List.exe
+C:\Users\burul\source\repos\List\List\obj\Debug\List.pdb
